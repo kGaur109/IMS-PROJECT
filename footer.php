@@ -1,8 +1,8 @@
 
 </div><!-- content -->
 </div><!-- wrapper -->
-<div id="wrapper">
-<div id="footer">
+<div style="width:95%;">
+<div style="color: #cdcfd4">
   Created for IMS Project <br>
   Created By: <br>
   Shivam Sharma,
